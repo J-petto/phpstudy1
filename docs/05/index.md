@@ -1,6 +1,5 @@
 ## 5주차 수업 2019.09.25
 
-
 --> Class를 만들어 include나 require로 불러와 사용 할 수 있다.
 --> include는 오류가 나도 실행이 되지만 require은 그렇지 못한다.
 ![11-2](./images/hello11-2.PNG)
