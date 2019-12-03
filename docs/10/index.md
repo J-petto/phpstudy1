@@ -25,8 +25,11 @@
 --> Tables.php를 table.html과 연결시킨다.
 --> DB에서 정보를 받아와 현재 있는 데이터 테이블을 보여준다.
 ![Tables](./images/Tables.PNG)
+![index](./images/2.PNG)
+
 
 --> TableInfo.php는 desc.html과 연결한다.
---> member에 있는 데이터 값을 보여주도록 한다.
+--> member에 있는 데이터 필드값을 보여주도록 한다.
 ![TableInfo](./images/TableInfo.PNG)
+
 
