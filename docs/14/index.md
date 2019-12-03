@@ -1,7 +1,7 @@
 ## 14주차 수업 2019.11.27
 
-![01](./images/1.PNG)!
---> PHP인터페이스를 위해서 파일을 만듦
+![01](./images/1.PNG)
+<br>--> PHP인터페이스를 위해서 파일을 만듦
 
 [02](./images/2.PNG)
 --> interface 사용을 위해 .php파일들에 implements시킨다.
