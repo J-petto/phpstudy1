@@ -6,6 +6,7 @@ ppt제출 [PPT 다운받기](https://github.com/J-petto/phpstudy1/raw/master/php
 
 ---
 
---깃허브 나만의 홈페이지 연습--<br>
+--깃허브 나만의 홈페이지 연습--
+<br>
 사진 넣는 법<br>
 ![이미지](./images/dog.jpg)
