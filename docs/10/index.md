@@ -3,9 +3,9 @@
 --> DB사용을 위해 mysql 워크시트를 다운받는다.<br>
 ![01](./images/01.PNG)<br>
 --> 사용할 데이터베이스를 만들어 준다.<br>
-![02](./images/02.PNG)<br>
+![02](./images/02.png)<br>
 --> mysql사용을 위해 주석처리 되어있던 명령 문들을 풀어준다<br>
-![03](./images/03.PNG)<br>
+![03](./images/03.png)<br>
 
 --> 제작한 클래스들을 자동으로 require 해주는 기능을 제작한다.<br>
 ![Loading](./images/Loading.PNG)<br>
